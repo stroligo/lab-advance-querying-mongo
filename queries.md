@@ -2,6 +2,9 @@
 
 # Answers
 
+#Base para resolver a atividade
+https://www.mongodb.com/docs/manual/reference/operator/query/
+
 ### 1. All the companies whose name match 'Babelgum'. Retrieve only their `name` field.
 
 query: {name: "Babelgum"}
